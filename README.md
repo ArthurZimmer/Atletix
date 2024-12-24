@@ -7,7 +7,7 @@ Atletix is a web application developed on demand by Instituto Ivoti, designed to
 - **Frontend**: PHP, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL
-- **Libraries**: [List any libraries used, e.g., jQuery, Bootstrap, Chart.js, etc.]
+- **Libraries**: [jQuery, Bootstrap, Chart.js, Tables.js]
 
 ## Features
 
