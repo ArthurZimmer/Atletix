@@ -22,4 +22,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Atletix.git
+   git clone https://github.com/ArthurZimmer/Atletix.git
